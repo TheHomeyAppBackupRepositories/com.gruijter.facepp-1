@@ -1,0 +1,17 @@
+v2.0.2  25.04.2023 jimp@0.22.7. Partial fix Homey2023 compatibility.
+v2.0.1  02.02.2023 Fixed Homey2023 compatibility.
+v2.0.0  31.01.2023 Rewrite to SDK3. jimp@0.16.2
+v1.2.2  24.05.2021 Fix HTTP(S) timeout. Improved logger. jimp@0.16.1
+v1.2.1  28.06.2020 Added cropped face image tag in trigger card. Small fixes.
+v1.1.7  07.06.2020 Fix INVALID_OUTER_ID when no face added. Fix THRESHOLD error after clean install.
+v1.1.6  11.05.2020 Fix not able to send to Telegram on NO_MATCH. Fix app settings pop-up messages.
+v1.1.5  05.05.2020 Stability improvements. Added toggle API Secret view in app settings. Fix threshold settings.
+v1.1.4  03.05.2020 New settings and face set scheme. Minor fixes.
+v1.1.2  03.05.2020 Fix not able to add faces. Add warning that each Homey needs own API key.
+v1.1.1  03.05.2020 Added clickable registration link. Added log filters. Fixed flowtoken_already_exists. Fixed ENOENT: no such file or directory.
+v1.1.0  02.05.2020 Added cloud queueing and rate limiting.
+v1.0.4  01.05.2020 Added test image. Fixed unhandledRejection errors. Added API check. Improved app logs. Removed INVALID_OUTER_ID log.
+v1.0.3  29.04.2020 App init and frontend bugfixes.
+v1.0.2  29.04.2020 Homey Appstore compliancy.
+v1.0.1  29.04.2020 Several small fixes.
+v1.0.0  28.04.2020 First release.
